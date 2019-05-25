@@ -1,0 +1,1 @@
+key = ['echo','read','set','unset','readonly','shift','export','if','fi','else','while','do','done','for','until','case','esac','break','continue','exit','return','trap','wait','eval','exec','ulimit','umask']
